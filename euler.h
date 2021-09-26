@@ -1,0 +1,2 @@
+long one();
+long six();
